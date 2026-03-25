@@ -42,7 +42,8 @@ Half wave rectifier with filter:
 Bridge rectifier with filter:
 <img width="825" height="460" alt="image" src="https://github.com/user-attachments/assets/9fed0760-630a-4714-91fa-428cc3f4203b" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ef6c9078-e412-4654-b356-a790ce9d59f9" />
+<img width="954" height="1070" alt="568800522-ef6c9078-e412-4654-b356-a790ce9d59f9" src="https://github.com/user-attachments/assets/6829d97c-4bfd-4ded-988c-46cc4e0aa606" />
+
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/55a891b5-9413-408f-84b7-efad85a2cbae" />
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0369041d-413b-4dc9-82a5-291be16ea194" />
